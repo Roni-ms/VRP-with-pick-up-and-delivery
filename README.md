@@ -1,0 +1,2 @@
+# VRP-with-pick-up-and-delivery
+This tutorial shows formulation for the pickup and delivery problem with time windows, based on a modeling strategy that allows the assignment of vehicles to routes explicitly in two-index flow formulations. Details can be found here https://medium.com/@bixbyte.academy/implementation-of-two-index-formulation-for-the-pickup-and-delivery-optimization-problem-with-time-a6ffdc631cec
